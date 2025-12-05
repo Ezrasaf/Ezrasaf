@@ -1,44 +1,57 @@
-# Hola, soy Ezra 👋
+# 👋 Hola, soy Ezra
 
-🎓 Estudiante de Ingeniería en Informática (UADE)  
-📊 Interesado en Datos, Ingeniería de Software y Automatización  
-💡 Experiencia en SQL, Java, Python y arquitectura de sistemas  
+🎓 **Estudiante de Ingeniería en Informática (UADE)**  
+📊 Apasionado por **Datos, Backend, Automatización e Inteligencia Artificial**  
+💡 Experiencia en **SQL, Java, Python y Arquitectura de Sistemas**
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🔧 Taller Mecánico (Java – MVC + Persistencia)
-Sistema completo de gestión con arquitectura por capas, repositorios, controladores y GUI.  
+### 🔧 **Sistema de Gestión para Taller Mecánico (Java – MVC + Persistencia)**
+Aplicación completa con arquitectura por capas, patrones SOLID/GRASP, repositorios, controladores y GUI en Swing.  
 ➡️ https://github.com/Ezrasaf/TallerMecanico
-
-### 📦 Logística & Trazabilidad – Base de Datos (SQL Server)
-Modelo de datos inspirado en operaciones reales de Andreani (farmacéutica).  
-Incluye KPIs, triggers, vistas de rendimiento y trazabilidad por lote.  
-➡️ **(Próximamente)**
-
-### 🐍 Python – Automatizaciones y Scripts
-Proyectos en Python orientados a procesamiento de datos y automatización.  
-➡️ **(Próximamente)**
 
 ---
 
-## 🛠️ Tecnologías
+### 📦 **Base de Datos Logística & Trazabilidad (SQL Server)**
+Modelo de datos inspirado en operaciones reales de logística farmacéutica.  
+Incluye KPIs, triggers, vistas de análisis y trazabilidad completa por lote.  
+➡️ https://github.com/Ezrasaf/andreani-logistica-sql
 
-**Lenguajes:**  
-- Java, SQL, Python, JavaScript
+---
 
-**Bases de Datos:**  
-- SQL Server, MySQL
+### 🐍 **Python – Sistema de Gestión / Automatizaciones**
+Scripts, utilidades y sistema mini-ERP modular con persistencia en archivos.  
+➡️ https://github.com/Ezrasaf/inventory-management-python
 
-**Herramientas:**  
-- Git, GitHub, Power BI, n8n, IntelliJ
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 🧑‍💻 Lenguajes
+- **Java**, **SQL**, **Python**, JavaScript
+
+### 🗄️ Bases de Datos
+- **SQL Server**, MySQL
+
+### 🔧 Herramientas
+- Git & GitHub  
+- Power BI  
+- n8n (automatizaciones)  
+- IntelliJ IDEA  
+- VS Code  
 
 ---
 
 ## 📫 Contacto
-Si querés ver más de mi trabajo o colaborar en algún proyecto, podés escribirme.
+Si querés ver más de mi trabajo o colaborar en algún proyecto, podés escribirme:
 
-✉️ ezrasafadie@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/ezra-david-safadie-4964bb183/
+📧 **ezrasafadie@gmail.com**  
+💼 **LinkedIn:** https://www.linkedin.com/in/ezra-david-safadie-4964bb183/
 
+---
+
+## ⭐ Sobre mí
+Me gusta crear soluciones que simplifiquen procesos, optimicen tareas y conecten datos con decisiones reales.  
+Sigo aprendiendo todos los días para crecer en el mundo del desarrollo y la ingeniería de datos.
