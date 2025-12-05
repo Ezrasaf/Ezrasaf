@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="Banner github" src="https://github.com/user-attachments/assets/5e3e197d-5432-404c-82af-57af88322a98" />![Banner](![Banner github.png…]()
+.png)
+
 # 👋 Hola, soy Ezra
 
 🎓 **Estudiante de Ingeniería en Informática (UADE)**  
