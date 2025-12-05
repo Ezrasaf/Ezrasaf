@@ -40,5 +40,5 @@ Proyectos en Python orientados a procesamiento de datos y automatización.
 Si querés ver más de mi trabajo o colaborar en algún proyecto, podés escribirme.
 
 ✉️ ezrasafadie@gmail.com  
-💼 LinkedIn: *(podemos armarlo si querés)*
+💼 LinkedIn: https://www.linkedin.com/in/ezra-david-safadie-4964bb183/
 
